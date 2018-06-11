@@ -1,0 +1,8 @@
+paraDefPath = F:\\paper8\\java\\models\\parameter_def.txt
+paraDefPath_redis = F:\\paper8\\java\\models\\parameter_def_redis.txt
+modelsPath = F:\\paper8\\java\\models\\
+backupModelsPath = F:\\paper8\\java\\models\\backup\\
+performanceoutputpath = F:\\paper8\\java\\
+sigarLibPath=F:\\paper8\\java\\hyperic-sigar-1.6.4\\sigar-bin\\lib\\
+modelCount = 1
+simulateCount = 2

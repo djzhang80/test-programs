@@ -1,0 +1,1 @@
+java -jar F:\paper8\java\parallelSWATRedis.jar F:\paper8\java\config.property 5
